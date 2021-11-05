@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/adityasri12/column_card/blob/gh-pages/index.html)
 - Live Site URL: [Live Site](https://adityasri12.github.io/column_card/)
 
 ## My process
